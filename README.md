@@ -1,16 +1,26 @@
-## Hi there 👋
+<table>
+<tr>
 
-<!--
-**amitawasthi11/amitawasthi11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<td width="55%">
 
-Here are some ideas to get you started:
+# Hi 👋, I'm Amit Awasthi
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=amitawasthi11&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### MCA Student | Backend Developer
+
+- 🌱 Currently learning Node.js, Express & sql
+- 💻 Solving DSA problems daily
+- 🚀 Interested in problem solving and Development
+- 📫 Reach me at: awasthiammit412@gmail.com
+
+</td>
+
+<td width="45%">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamp1czkwZjZqeDBnMG0yMnNvb2prem4zZXRmdjJ3ZThyaHhxc2I2MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="300"/>
+
+</td>
+</tr>
+</table>
