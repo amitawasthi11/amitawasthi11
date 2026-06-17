@@ -24,6 +24,8 @@
 </td>
 
 </tr>
+</p>
+</table>
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
@@ -38,5 +40,9 @@
 <a href="https://leetcode.com/u/amit_awasthi11/" target="blank">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="30" width="30" />
 </a>
+
+<h3 align="center">Tech Stack</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,nodejs,express,mysql,postman,git,github,vscode,react" />
 </p>
-</table>
