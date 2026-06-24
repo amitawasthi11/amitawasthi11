@@ -10,7 +10,7 @@
 
 ### MCA Student | Backend Developer
 
-- 🌱 Currently learning Node.js, Express & sql
+- 🌱 Currently learning backend 
 - 💻 Solving DSA problems daily
 - 🚀 Interested in problem solving and Development
 - 📫 Reach me at: awasthiammit412@gmail.com
@@ -26,16 +26,6 @@
 </tr>
 </p>
 </table>
-<h3 align="center">Connect with me:</h3>
-
-<p align="center">
-<a href="https://x.com/AmitAwasthiiiii" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="30" width="40" />
-</a>
-
-<a href="https://www.linkedin.com/in/amit-awasthi-75655a255/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
-</a>
 
 <a href="https://leetcode.com/u/amit_awasthi11/" target="blank">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="30" width="30" />
@@ -46,3 +36,13 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,html,css,js,nodejs,express,mysql,postman,git,github,vscode,react" />
 </p>
+<h3 align="center">Connect with me:</h3>
+
+<p align="center">
+<a href="https://x.com/AmitAwasthiiiii" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="30" width="40" />
+</a>
+
+<a href="https://www.linkedin.com/in/amit-awasthi-75655a255/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
+</a>
